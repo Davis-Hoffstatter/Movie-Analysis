@@ -16,15 +16,21 @@ This project merges movie‑level box office data with industry metrics by year,
   Run the Jupyter Notebook:
   (Linked)
 
+  Install proper scraping packages
+
 # 📂 Project Structure
 - data/ → contains raw and cleaned datasets
-- notebooks/ → Jupyter notebooks with analysis and visualizations
-- scripts/ → helper Python scripts for cleaning and merging
+  2000-2009 Kaggle Movie Data
+  2010-2024 Kaggle Movie Data
+  2024 Kaggle Movie Data
+- dhoffstatter_project1/ → Jupyter notebooks with analysis and visualizations
+- Data-Wrangling-Report/ → Project Report
 - README.md → project overview and instructions
 
 
 # 🏆 Features
 - Cleaned and standardized numeric values for accurate analysis
+- Enhances Web Scraping ability
 - Merge of movie-level and market-level datasets by year
 - Visualizations of domestic vs foreign revenue trends
 - Ready-to-use dataset for further analytics
