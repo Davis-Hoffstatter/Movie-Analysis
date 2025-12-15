@@ -35,5 +35,10 @@ This project merges movie‑level box office data with industry metrics by year,
 - Visualizations of domestic vs foreign revenue trends
 - Ready-to-use dataset for further analytics
 
+## 📊 Data Sources
+
+1. [Movies Box Office Collection Data (2000–2024) – Kaggle](https://www.kaggle.com/datasets/parthdande/movies-box-office-collection-data-2000-2024)  
+2. [The Numbers – Market Data](https://www.the-numbers.com/market/)  
+
 
 
