@@ -15,6 +15,8 @@ This projects primary focus was to incorporate data wrangling skills using pytho
 
   pip install -r requirements.txt
 
+  Download all three datasets listed in files
+
   Run the Jupyter Notebook:
   (Linked)
 
